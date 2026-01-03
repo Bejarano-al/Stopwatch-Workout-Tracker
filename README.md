@@ -3,11 +3,11 @@ A Python-based program used track the time one works out (exercise time - rest t
 
 # How It Works
 -Click Start Workout  
--Track exercise and rest times
--Add optional notes
--Save the workout
--Generate monthly reports
--Review reports in folder  
+-Track exercise and rest times  
+-Add optional notes  
+-Save the workout  
+-Generate monthly reports  
+-Review reports in folder    
 
 # Created as a learning project to understand
 -Tkinter GUI  
