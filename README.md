@@ -6,7 +6,7 @@ A Python-based program used track the time one works out (exercise time - rest t
 -Track exercise and rest times  
 -Add optional notes  
 -Save the workout  
--Generate monthly reports  
+-Generate monthly report  
 -Review reports in folder    
 
 # Created as a learning project to understand
